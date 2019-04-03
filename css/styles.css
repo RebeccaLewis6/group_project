@@ -1,0 +1,47 @@
+body {
+  padding-top: 5em;
+  background-color: #ffcce6;
+}
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+h2 {
+  padding: 3rem 1.5rem;
+  text-align: center;
+  color: white;
+}
+
+.lead {
+  color: white;
+}
+.starter-template{
+  color: white
+}
+
+.carousel {
+  width:320px;
+  height:100%;
+}
+
+.carousel {
+  margin: auto;
+}
+
+.navbar-brand {
+  color: #ffcce6;
+}
+
+.navbar-brand:hover {
+  color: red;
+}
+
+.pink {
+  color: white;
+}
+
+.navbar {
+  background-color: white;
+}
